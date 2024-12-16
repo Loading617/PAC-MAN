@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="pac-man-midway-big" width="350" height="453" alt="PAC-MAN">
+   <img src="15250-Pac-Man_(Midway)-1490194368.jpg" width="350" height="453" alt="PAC-MAN">
 </p>
 
 
