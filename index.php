@@ -6,7 +6,7 @@
     <title>Pac-Man</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body>
+<body <?php echo""; ?>>
     <div class="game-container">
         <canvas id="gameCanvas" width="500" height="500"></canvas>
     </div>
